@@ -6,8 +6,12 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.atsln
+*.atsuo
+*.cppproj
 
 # Build results
+Visual Micro/
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
